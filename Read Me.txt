@@ -1,0 +1,7 @@
+This Direct3D retained mode example originally came from Patrice Scribe's DirectX site. It was an example that almost worked, but the room was not resizable, and the texture on the floor was screwed up. I modified it to create a room any size, keeping the textures intact.
+
+I was very excited while working on this, but ultimately dropped it due to lack of high color support. If ANYone can get this sample to use high color, drop me a line at kamilche@mad.scientist.com!
+ 
+Requires the DirectX3 Type Library, available at Patrice Scribe's site - http://members.xoom.com/vba51/downloads/directx.zip
+
+--Cindy
